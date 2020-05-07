@@ -1,0 +1,6 @@
+- project:
+    name: github.com/ansible-collections/splunk.enterprise_security
+    templates:
+      - system-required
+      - publish-to-galaxy
+      - ansible-collections-security-splunk-enterprise_security
